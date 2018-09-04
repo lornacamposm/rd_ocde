@@ -213,6 +213,6 @@ leaflet(Map.stat1) %>%
 
 - Mexico registers the highest percentage of government financing, surpassing by 17.2 percent points to second-place, Greece.
 - Japan and Korea register the highest percentage financed by business enterprise sector, reaching 78 % and 74.5 %, respectively.
-- Mexico leads the percentage performed R&D tasks by government (37.9 %); Latvia, by higher education (49.7 %), and Israel, by the business enterprise sector (85.1 %).
+- Mexico leads the percentage performed R&D tasks by government (37.9 %), Latvia, by higher education (49.7 %), and Israel, by the business enterprise sector (85.1 %).
 - Precisely, this sector is the one that reach first place in the percentage performed R&D tasks in OECD member countries.
 - And what about the map? Most full-time researchers are located in U.S. (1.379.977), Japan (662.071), Germany (387.982), and Korea (356.447). While, on the opposite side, there's  Iceland (1.944), Luxembourg (2.539), Latvia (3.613), and Estonia (4.187).
