@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 R&D plays a leading role in the innovation process of any country. It's key in gaining competitive advantages that favor education, technology, science and all those areas that generate economic and social development.
 
-The following visualizations combine insights from the OECD's publication, ["Main Science and Technology Indicators"](https://www.oecd-ilibrary.org/science-and-technology/main-science-and-technology-indicators_2304277x), with the goal of showing the state of R&D in member countries.
+The following visualizations combine insights from the OECD's publication, <h1>["Main Science and Technology Indicators"]</h1>(https://www.oecd-ilibrary.org/science-and-technology/main-science-and-technology-indicators_2304277x), with the goal of showing the state of R&D in member countries.
 
 **NOTE | OECD member countries**: Australia, Austria, Belgium, Canada, Chile, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea, Latvia, Luxembourg, Mexico, the Netherlands, New Zealand, Norway, Poland, Portugal, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, and United States.
 
@@ -213,6 +213,6 @@ leaflet(Map.stat1) %>%
 
 - Mexico registers the highest percentage of government financing, surpassing by 17.2 percent points to second-place, Greece.
 - Japan and Korea register the highest percentage financed by business enterprise sector, reaching 78 % and 74.5 %, respectively.
-- Mexico leads the percentage performed R&D tasks by government (37.9 %), Latvia, by higher education (49.7 %), and Israel, by the business enterprise sector (85.1 %).
+- Mexico leads the percentage performed R&D tasks by government (37.9 %); Latvia, by higher education (49.7 %), and Israel, by the business enterprise sector (85.1 %).
 - Precisely, this sector is the one that reach first place in the percentage performed R&D tasks in OECD member countries.
 - And what about the map? Most full-time researchers are located in U.S. (1.379.977), Japan (662.071), Germany (387.982), and Korea (356.447). While, on the opposite side, there's  Iceland (1.944), Luxembourg (2.539), Latvia (3.613), and Estonia (4.187).
