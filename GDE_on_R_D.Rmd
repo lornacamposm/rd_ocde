@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 R&D plays a leading role in the innovation process of any country. It's key in gaining competitive advantages that favor education, technology, science and all those areas that generate economic and social development.
 
-The following visualizations combine insights from the OECD's publication, <h1>"Main Science and Technology Indicators"</h1>(https://www.oecd-ilibrary.org/science-and-technology/main-science-and-technology-indicators_2304277x), with the goal of showing the state of R&D in member countries.
+The following visualizations combine insights from the OECD's publication, ["Main Science and Technology Indicators"](https://www.oecd-ilibrary.org/science-and-technology/main-science-and-technology-indicators_2304277x), with the goal of showing the state of R&D in member countries.
 
 **NOTE | OECD member countries**: Australia, Austria, Belgium, Canada, Chile, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea, Latvia, Luxembourg, Mexico, the Netherlands, New Zealand, Norway, Poland, Portugal, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, and United States.
 
